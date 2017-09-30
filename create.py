@@ -1,6 +1,6 @@
 # !/usr/bin/python3.5
 import pymysql
-db = pymysql.connect("localhost", "root", "123", "movie")
+db = pymysql.connect("localhost", "root", "password", "movie")
 cursor = db.cursor()
 cursor.execute("use movie")
 
