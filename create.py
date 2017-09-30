@@ -30,4 +30,4 @@ def create_table():
 try:
     create_table()
 except:
-    print("\n")
+    print("")
