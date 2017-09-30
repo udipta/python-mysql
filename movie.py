@@ -39,7 +39,7 @@ def func():
     elif a == 3:
         print("\nSQL queries are....\n")
 
-        print("1. List the titles of all movies directed by ‘Hitchcock’.\n")
+        print("1. List the titles of all movies directed by ‘Rajamouli’.\n")
         print("2. Find the movie names where one or more actors acted in two or more movies.\n")
         print("3. List all actors who acted in a movie before 2000 and also in a movie after 2015 (use JOIN "
               "operation).\n")
